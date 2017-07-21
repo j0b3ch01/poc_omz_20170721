@@ -1,8 +1,9 @@
 **_Reset your timer for 4 minutes and start now_**
 
-- Using your IDE, create the following html file:
+- Using your IDE, create the following [html](https://www.htmlprimer.com/) file:
 
-```<html>
+```
+<html>
 <head>
 
 </head>
@@ -14,6 +15,7 @@
 <a href=""><img src=""/></a>
 <a href=""><img src=""/></a>
 </body>
-</html>```
+</html>
+```
 
 - Publish the file [(try AWS S3)](https://aws.amazon.com/s3/)
