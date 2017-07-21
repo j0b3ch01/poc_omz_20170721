@@ -15,3 +15,5 @@
 <a href=""><img src=""/></a>
 </body>
 </html>```
+
+- Publish the file [(try AWS S3)](https://aws.amazon.com/s3/)
