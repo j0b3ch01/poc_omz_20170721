@@ -1,2 +1,1 @@
-#Starting with an Optimizely project
-
+###_ You'll need an Optimizely account_
