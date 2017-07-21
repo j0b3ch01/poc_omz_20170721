@@ -1,2 +1,2 @@
-* Starting with an Optimizely project
+#Starting with an Optimizely project
 
