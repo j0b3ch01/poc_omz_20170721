@@ -3,7 +3,7 @@
 Welcome.
 
 In the next 20 minutes, you'll build the following with Optimizely X:
-- (1) project
+- [(1) project](https://github.com/j0b3ch01/poc_omz_20170721/blob/master/starthere.md)
 - (1) experiment
 - (2) variations
 - **_Stretch goal 1_**: smoke testing in any language or platform
