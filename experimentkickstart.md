@@ -22,3 +22,5 @@
 - Remember the [snippet](https://help.optimizely.com/Set_Up_Optimizely/Optimizely_snippet%3A_One_line_of_JavaScript_to_run_Optimizely_on_your_site)
 - Save the changes to your html and republish it
 - **_[If you still have time, scan through exclusive campaigns](https://help.optimizely.com/Build_Campaigns_and_Experiments/Create_mutually_exclusive_experiments_in_SDK_projects)_**
+
+We'll stop here to regroup and get questions and share solutions and shortcuts with the rest of the team.
