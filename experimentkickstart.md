@@ -21,4 +21,4 @@
 - [Create](https://help.optimizely.com/Build_Campaigns_and_Experiments/Six_steps_to_create_an_experiment_in_Optimizely_X_Web) your experiment
 - Get the Optimizely [snippet](https://help.optimizely.com/Set_Up_Optimizely/How_the_Optimizely_X_Web_snippet_works%3A_Order_of_execution) and paste it into the correct place in your html file
 - Save the changes to your html and republish it
-- **_[If you still have time, check out exclusive campaigns](https://help.optimizely.com/Build_Campaigns_and_Experiments/Create_mutually_exclusive_experiments_in_SDK_projects)_**
+- **_[If you still have time, scan through exclusive campaigns](https://help.optimizely.com/Build_Campaigns_and_Experiments/Create_mutually_exclusive_experiments_in_SDK_projects)_**
